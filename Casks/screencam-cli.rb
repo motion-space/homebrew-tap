@@ -1,8 +1,8 @@
 cask "screencam-cli" do
-  version "1.0.4"
-  sha256 "46afb7f84ecd363b309085e0a70095e5aa2d6b264d4d0f7a7c077e296d85f527"
+  version "1.0.6"
+  sha256 "f4804421157511c9fbfb9c482413fe97e30be0be68f8847b3dbdc756cbd5db9b"
 
-  url "https://download.thescreen.cam/cli/releases/1.0.4/screencam-cli-1.0.4-macos-arm64.zip"
+  url "https://download.thescreen.cam/cli/releases/1.0.6/screencam-cli-1.0.6-macos-arm64.zip"
   name "ScreenCam CLI"
   desc "Native command-line client for ScreenCam recording and processing"
   homepage "https://thescreen.cam"
